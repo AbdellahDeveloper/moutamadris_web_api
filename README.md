@@ -5,7 +5,7 @@
 ## API Reference
 Replace **{MOUTAMADRIS_WEB_API_URL}** with **Url of the hosted moutamadris api**
 You can host your own moutamadris api in RENDER
->[![Render](https://img.shields.io/badge/Render%20Hosting-32a852?style=for-the-badge&logo=render&logoColor=white)](https://docs.render.com/deploy-fastapi)
+>[![Render](https://img.shields.io/badge/Render%20Hosting-ffff?style=for-the-badge&logo=render&logoColor=black)](https://docs.render.com/deploy-fastapi)
 ### Get ID Token
 ```
 POST http://{MOUTAMADRIS_WEB_API_URL}/api/get_id_token
