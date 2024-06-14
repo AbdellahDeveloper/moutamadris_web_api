@@ -1,1 +1,4 @@
 fastapi[all]
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+moutamadris-api>=1.0
