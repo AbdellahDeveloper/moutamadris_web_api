@@ -6,6 +6,9 @@
 You can host your own moutamadris_rest_api for FREE in **RENDER** :
 >[![Render](https://img.shields.io/badge/Render%20Hosting-ffffff?style=for-the-badge&logo=render&logoColor=black)](https://docs.render.com/deploy-fastapi)
 
+## Tutorial
+[![tuto](https://img.youtube.com/vi/sXVxSEORgvA/0.jpg)](https://www.youtube.com/watch?v=sXVxSEORgvA)
+
 ## API Reference
 Replace **{MOUTAMADRIS_WEB_API_URL}** with **Url of the hosted moutamadris api**
 
